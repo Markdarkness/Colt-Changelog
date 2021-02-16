@@ -1,6 +1,8 @@
+Update sensor blobs from LA.UM.8.2.r1-07400-sdm660.0
+Fix Deep sleep
 Cleaning unnecessary things
 Update ANT radio from Android 11
 Set opengl renderer
 Remove unnecessary media extension packages 
 Remove unnecessary netutils packages
-Kernel EAS Halcyon V3.6
+Kernel EAS Halcyon V3.7
